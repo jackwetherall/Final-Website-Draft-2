@@ -70,4 +70,29 @@ nav img{
     transform: translate(-50%,-50%);*/
     text-align: center;
 
+
+}
+
+.container{
+    padding-top: 120px;
+    display: flex;
+    max-width: 1475px;
+    flex-wrap: wrap;
+    margin: row;
+    justify-content: space-evenly;
+    margin: auto;
+}
+
+.itemcontainer{
+    
+    font-size: 12px;
+    text-align: center;
+    color: #fff;
+    flex-wrap: wrap;
+    margin-bottom: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    width: 300px;
+    
 }

@@ -60,6 +60,7 @@ nav img{
 }
 
 .text-box{
+    font-size: 22px;
     width: 100%;
     color: #fff;
     position: top;
@@ -70,19 +71,26 @@ nav img{
 
 }
 
-.grid{
-    padding-top: 150px;
+.container{
+    padding-top: 120px;
     display: flex;
     max-width: 1475px;
     flex-wrap: wrap;
     margin: row;
     justify-content: space-evenly;
     margin: auto;
+}
 
-
-
-   
-
-
-
+.itemcontainer{
+    
+    font-size: 12px;
+    text-align: center;
+    color: #fff;
+    flex-wrap: wrap;
+    margin-bottom: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width: 300px;
+    
 }
