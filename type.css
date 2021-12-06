@@ -69,3 +69,20 @@ nav img{
     text-align: center;
 
 }
+
+.grid{
+    padding-top: 150px;
+    display: flex;
+    max-width: 1475px;
+    flex-wrap: wrap;
+    margin: row;
+    justify-content: space-evenly;
+    margin: auto;
+
+
+
+   
+
+
+
+}
