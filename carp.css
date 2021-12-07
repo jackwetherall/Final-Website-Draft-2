@@ -8,7 +8,11 @@
 .background {
     min-height: 100vh;
     width: 100%;
+<<<<<<< Updated upstream
     background-image: url(backgrounds/dancing.png);
+=======
+    background-image: url(backgrounds/tildes.png);
+>>>>>>> Stashed changes
     opacity: 100%;
     background-position: center;
     background-size: cover;
