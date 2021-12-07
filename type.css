@@ -99,7 +99,7 @@ nav img{
 
 .img-hover-zoom {
     height: 300px; 
-    overflow:visible; 
+   
   }
   
 
@@ -109,5 +109,5 @@ nav img{
   
 
   .img-hover-zoom:hover img {
-    transform: scale(1.25);
+    transform: scale(1.20);
   }
