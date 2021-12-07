@@ -60,7 +60,7 @@ nav img{
 }
 
 .text-box{
-    font-size: 22px;
+    font-size: 17.5px;
     width: 100%;
     color: #fff;
     position: top;
@@ -72,13 +72,14 @@ nav img{
 }
 
 .container{
-    padding-top: 120px;
+    padding-top: 90px;
     display: flex;
     max-width: 1475px;
     flex-wrap: wrap;
     margin: row;
     justify-content: space-evenly;
     margin: auto;
+    grid-row: 4;
 }
 
 .itemcontainer{
@@ -94,3 +95,19 @@ nav img{
     width: 300px;
     
 }
+
+
+.img-hover-zoom {
+    height: 300px; 
+    overflow:visible; 
+  }
+  
+
+  .img-hover-zoom img {
+    transition: transform .5s ease;
+  }
+  
+
+  .img-hover-zoom:hover img {
+    transform: scale(1.25);
+  }
