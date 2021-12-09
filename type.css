@@ -72,7 +72,7 @@ nav img{
 }
 
 .container{
-    padding-top: 90px;
+    padding-top: 0px;
     display: flex;
     max-width: 1475px;
     flex-wrap: wrap;
