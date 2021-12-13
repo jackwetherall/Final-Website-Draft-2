@@ -85,6 +85,7 @@ nav img{
 .first{
     width: 400px;
     height: auto;
+    border-radius: 10px;
  
  
 }
@@ -94,6 +95,7 @@ nav img{
 .second{
     width: 400px;
     height: 527px;
+    border-radius: 8px;
     
     
 }
