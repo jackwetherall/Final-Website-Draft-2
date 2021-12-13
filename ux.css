@@ -85,7 +85,7 @@ nav img{
 
 .itemcontainer{
     
-    font-size: 12px;
+    font-size: 13px;
     text-align: center;
     color: #fff;
     flex-wrap: wrap;
@@ -94,6 +94,7 @@ nav img{
     flex-direction: column;
     align-items: stretch;
     width: 500px;
+    text-shadow: black;
     
 }
 

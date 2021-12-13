@@ -11,7 +11,7 @@
     background-image: url(backgrounds/mindthestep.png);
     opacity: 100%;
     background-position: center;
-    background-size: cover;
+    background-size: cover; 
     position: relative;
 
 }
